@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760682849042",
+    "firebase_url": "https://fir-notesapp-3fa38.firebaseio.com",
+    "project_id": "fir-notesapp-3fa38",
+    "storage_bucket": "fir-notesapp-3fa38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760682849042:android:bef884891bfae27338c9cb",
+        "android_client_info": {
+          "package_name": "hr.ferit.matijasokol.firebasenotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760682849042-7394luojcegt5vp6iobg2febuqup57no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.ferit.matijasokol.firebasenotesapp",
+            "certificate_hash": "a897c82e8f37dc01765d28d1d0fab9319a5eaf43"
+          }
+        },
+        {
+          "client_id": "760682849042-2aekeg554fclpqq1lcmoq0k59ga498v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiK69RyxTdKTHqa8XS29fxqJwMTMWnznQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760682849042-2aekeg554fclpqq1lcmoq0k59ga498v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
